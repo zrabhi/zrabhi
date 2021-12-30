@@ -2,10 +2,10 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zrabhi)](https://github.com/mohouyizme/1337-readme)
 
-<a href="https://github.com/zrabhi?tab=repositories%22%3E
+<a href="https://github.com/zrabhi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrabhi&theme=dark%22/%3E
 </a>
-<a href="https://github.com/zrabhi?tab=repositories%22%3E
+<a href="https://github.com/zrabhi
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zrabhi&line_height=40&show_icons=true&theme=dark%22%3E
 </a>
 
