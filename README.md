@@ -23,8 +23,7 @@
 
 
 ### :man_technologist: About Me :
-- 🔭 I’m currently student at 1337.
-
+  🔭 I’m a Software Engineer student at 1337. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
 - 🌱 I’m currently learning the **42 cursus**
 
