@@ -67,7 +67,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
-
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zrabhi&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 <div class="item">
 <h2 style="color: blue" > 42 Cursus <h2>
