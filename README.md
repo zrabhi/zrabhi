@@ -1,6 +1,4 @@
-
 <div id="header" align="center">
-
   <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e476pmd1w01mitri6x1ln1g01pmhtbbnwnahx4ig05b&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="300" hieght="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/zakaria-rabhi-a3b5aa228/">
@@ -18,6 +16,9 @@
   Hey there, I'm Zakaria Rabhi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media4.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif" width="600" height="300"/>
+</div>
 </div>
 
 - 🔭 I’m currently student at 1337.
