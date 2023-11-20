@@ -24,10 +24,10 @@
 
 ### :man_technologist: About Me :
   🔭 I’m a Software Engineer student at 1337 Future Is Loading <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
-
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-rabhi-a3b5aa228/) || **zakariarabhi598@gmail.com**
+
+### :hammer_and_wrench: Languages and Tools :
 
 <br>
 <div class="item">
