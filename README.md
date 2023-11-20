@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zakaria-Rabhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-rabhi-a3b5aa228/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-rabhi-a3b5aa228/)
 
 - 📫 Reach me at **zakariarabhi598@gmail.com**
 <br>
