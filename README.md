@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG" width="100"/>
+  <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e476pmd1w01mitri6x1ln1g01pmhtbbnwnahx4ig05b&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/zakaria-rabhi-a3b5aa228/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
