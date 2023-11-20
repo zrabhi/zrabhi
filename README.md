@@ -20,7 +20,7 @@
   <img src="https://media4.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif" width="600" height="300"/>
 </div>
 </div>
----
+
 
 ### :man_technologist: About Me :
 - 🔭 I’m currently student at 1337.
