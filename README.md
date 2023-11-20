@@ -22,7 +22,7 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 - 🔭 I’m currently student at 1337.
 
 
