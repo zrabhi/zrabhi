@@ -17,4 +17,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrabhi&theme=dark" />
 </a>
 <br>
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ntqjbykwjo3uywn4wriwet0hc&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ntqjbykwjo3uywn4wriwet0hc&cover_image=true&theme=default&show_offline=false&background_color=111211&interchange=true)]]
