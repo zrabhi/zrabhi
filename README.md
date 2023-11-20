@@ -69,7 +69,7 @@
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zrabhi&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zrabhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrabhi&show_icons=true&theme=radical)
 <br>
 <div class="item">
 <h2 style="color: blue" > 42 Cursus <h2>
