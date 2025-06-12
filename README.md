@@ -63,8 +63,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
-: blue" > 42 Cursus <h2>
- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/zrabhi"  style="margin-right: auto; margin-left: auto; "alt="zrabhi's 42 stats"/></a>
-</div>
-<br>
 
